@@ -76,5 +76,5 @@ Revenue Optimization: Leverage payment and ride distance trends to strategize of
 
 Leveraged cross-platform tools for seamless data visualization.
 
-Enhanced storytelling skills to drive meaningful business decisions.
+
 
